@@ -1,8 +1,1 @@
-# Rocker 4.4.1
-rocker/rstudio:4.4.1
 
-# qiime2 amplicon 2024.5
-quay.io/qiime2/amplicon:2024.5
-
-# pytorch
-pytorch/pytorch:2.3.1-cuda11.8-cudnn8-runtime
