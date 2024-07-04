@@ -1,2 +1,5 @@
-# Rocker
+# Rocker 4.4.1
 rocker/rstudio:4.4.1
+
+# qiime2 meta 2024.5
+quay.io/qiime2/metagenome:2024.5
