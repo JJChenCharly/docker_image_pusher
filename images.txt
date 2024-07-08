@@ -1,1 +1,5 @@
-staphb/prokka:1.14.6
+sangerpathogens/roary:latest
+
+sangerpathogens/roary:trusty
+
+sangerpathogens/roary:demaintain
