@@ -1,5 +1,1 @@
-sangerpathogens/roary:latest
-
-sangerpathogens/roary:trusty
-
-sangerpathogens/roary:demaintain
+nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
