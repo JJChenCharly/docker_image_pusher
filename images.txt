@@ -1,1 +1,1 @@
-rocker/rstudio:4.3.1
+rocker/rstudio:4.0.1
