@@ -1,1 +1,1 @@
-thugenomefacility/prrophetic:0.5
+teamcsm/openbabel:py3.9-openbabel3.1.1
