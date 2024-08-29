@@ -1,1 +1,1 @@
-vnmd/mgltools_1.5.7:20230313
+ghcr.io/metaphorme/mgltools
