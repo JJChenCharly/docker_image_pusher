@@ -1,1 +1,1 @@
-teamcsm/openbabel:py3.9-openbabel3.1.1
+vnmd/mgltools_1.5.7:20230313
