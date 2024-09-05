@@ -1,1 +1,1 @@
-phusion/baseimage:focal-1.0.0-amd64
+pegi3s/haddock24-builder:2.4
