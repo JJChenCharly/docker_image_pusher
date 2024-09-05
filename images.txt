@@ -1,1 +1,1 @@
-phusion/baseimage:0.9.16
+phusion/baseimage:focal-1.0.0-amd64
