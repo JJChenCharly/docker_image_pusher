@@ -1,1 +1,1 @@
-ghcr.io/metaphorme/mgltools
+phusion/baseimage:0.9.16
