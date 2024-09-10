@@ -1,1 +1,1 @@
-fnndsc/conda:python3.11.2
+frolvlad/alpine-miniconda3:python3.7
