@@ -1,1 +1,1 @@
-godatadriven/miniconda:3.8
+fnndsc/conda:python3.11.2
