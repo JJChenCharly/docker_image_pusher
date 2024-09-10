@@ -1,1 +1,1 @@
-pegi3s/haddock24-builder:2.4
+paketobuildpacks/miniconda:0
