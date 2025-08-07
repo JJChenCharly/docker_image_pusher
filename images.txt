@@ -1,3 +1,4 @@
-nvidia/cuda:12.9.1-cudnn-runtime-ubuntu24.04
+rocker/rstudio:4.5.1
+# nvidia/cuda:12.9.1-cudnn-runtime-ubuntu24.04
 # pytorch/pytorch:2.7.1-cuda11.8-cudnn9-devel
 # nvidia/cuda:12.8.1-cudnn-runtime-ubuntu24.04
