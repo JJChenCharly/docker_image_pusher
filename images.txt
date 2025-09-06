@@ -1,4 +1,6 @@
-quay.io/qiime2/amplicon:2025.7
+staphb/panaroo:1.5.2
+
+# quay.io/qiime2/amplicon:2025.7
 # pytorch/pytorch:2.8.0-cuda12.8-cudnn9-runtime
 # nvidia/cuda:12.9.1-cudnn-runtime-ubuntu24.04
 # pytorch/pytorch:2.7.1-cuda11.8-cudnn9-devel
