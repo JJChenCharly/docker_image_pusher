@@ -1,4 +1,4 @@
-nvidia/cuda:12.9-base-ubuntu22.04 nvidia-smi
+nvcr.io/nvidia/clara/clara-parabricks:4.6.0-1
 
 # staphb/panaroo:1.5.2
 
