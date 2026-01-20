@@ -1,4 +1,6 @@
-nvcr.io/nvidia/clara/clara-parabricks:4.6.0-1
+pytorch/pytorch:2.9.1-cuda13.0-cudnn9-devel
+
+# nvcr.io/nvidia/clara/clara-parabricks:4.6.0-1
 
 # staphb/panaroo:1.5.2
 
