@@ -1,4 +1,4 @@
-pytorch/pytorch:2.9.1-cuda13.0-cudnn9-devel
+davidemms/orthofinder:latest
 
 # nvcr.io/nvidia/clara/clara-parabricks:4.6.0-1
 
