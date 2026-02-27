@@ -1,4 +1,4 @@
-davidemms/orthofinder:latest
+quay.io/qiime2/amplicon:2026.1
 
 # nvcr.io/nvidia/clara/clara-parabricks:4.6.0-1
 
