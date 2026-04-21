@@ -1,4 +1,6 @@
-rocker/rstudio:4.5.3
+pytorch/pytorch:2.11.0-cuda13.0-cudnn9-devel
+
+# rocker/rstudio:4.5.3
 
 # quay.io/qiime2/amplicon:2026.1
 
